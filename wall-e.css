@@ -6,4 +6,17 @@
       -ms-flex-pack: end;
           justify-content: flex-end;
 }
-/*# sourceMappingURL=wall-e.css.map */
+
+.width-sidebar {
+  width: 21em;
+}
+
+.actor1 {
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}/*# sourceMappingURL=wall-e.css.map */
