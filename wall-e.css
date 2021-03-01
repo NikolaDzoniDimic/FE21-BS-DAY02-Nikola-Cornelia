@@ -20,4 +20,9 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
+.slideshow{
+  display: flex;
+  justify-content:space-around;
+  width: 13em;
+}
 /*# sourceMappingURL=wall-e.css.map */
