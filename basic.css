@@ -1,0 +1,19 @@
+.myNav .myDiv {
+  background-color: aqua;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.myNav li {
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  padding-top: 10vw;
+}
+/*# sourceMappingURL=basic.css.map */
