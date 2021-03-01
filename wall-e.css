@@ -20,9 +20,14 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
-.slideshow{
+
+.slideshow {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content:space-around;
-  width: 13em;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 3em;
 }
 /*# sourceMappingURL=wall-e.css.map */
