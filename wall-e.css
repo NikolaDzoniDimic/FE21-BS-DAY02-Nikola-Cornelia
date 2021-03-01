@@ -8,7 +8,7 @@
 }
 
 .width-sidebar {
-  width: 21em;
+  margin-right: 5em;
 }
 
 .actor1 {
@@ -19,4 +19,5 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-}/*# sourceMappingURL=wall-e.css.map */
+}
+/*# sourceMappingURL=wall-e.css.map */
